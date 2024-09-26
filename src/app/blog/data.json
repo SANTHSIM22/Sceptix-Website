@@ -3,13 +3,23 @@
       "id": 1,
       "title": "How we make good websites!",
       "imageUrl": "https://sceptix-club.github.io/website-assets/events/Foss.avif",
-      "description": "Learn about our web development process."
+      "description": "Learn about our web development process.",
+      "link": "https://static.vecteezy.com/system/resources/previews/028/130/536/large_2x/blue-and-black-metallic-wallpaper-with-high-resolution-in-a-tech-style-generative-ai-photo.jpg",
+      "subclass": "Read more about...."
     },
     {
       "id": 2,
       "title": "Advanced Techniques in Web Design",
       "imageUrl": "https://sceptix-club.github.io/website-assets/events/Foss.avif",
-      "description": "Explore advanced techniques in web design."
+      "description": "Explore advanced techniques in web design.",
+      "link": "https://images.pexels.com/photos/158826/structure-light-led-movement-158826.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Not Advanced Techniques in Web Design",
+      "imageUrl": "https://sceptix-club.github.io/website-assets/events/Foss.avif",
+      "description": "Explore advanced techniques in web design.",
+      "link": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=pexels-luis-gomes-166706-546819.jpg&fm=jpg"
     }
   ]
   

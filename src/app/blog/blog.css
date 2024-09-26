@@ -1,11 +1,6 @@
-.glowing-border {
-    background-color: white;
-    border: 4px solid transparent;
-    transition: all 0.3s ease;
-  }
-  
+
 .glowing-border:hover {
     border-color: #00f0ff;
-    box-shadow: 0 0 10px rgba(0, 240, 255, 0.6);
+    box-shadow: 0 0 50px rgba(0, 240, 255, 0.6);
   }
   
