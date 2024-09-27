@@ -4,3 +4,7 @@
     box-shadow: 0 0 50px rgba(0, 240, 255, 0.6);
   }
   
+::-webkit-scrollbar {
+    width: 0px;                         
+  }
+  
