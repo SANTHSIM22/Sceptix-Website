@@ -20,6 +20,7 @@
     "lucide-react": "^0.438.0",
     "mini-svg-data-uri": "^1.4.4",
     "next": "14.2.4",
+    "plaiceholder": "^3.0.0",
     "react": "^18",
     "react-dom": "^18",
     "simplex-noise": "^4.0.1",

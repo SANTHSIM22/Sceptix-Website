@@ -11,6 +11,9 @@ export const RevealLinks = () => {
       <FlipLink href="https://www.linkedin.com/company/sceptix">
         LinkedIn
       </FlipLink>
+      <FlipLink href="https://chat.whatsapp.com/EtERhdAzzF97FG450vUB7U">
+        Alliance
+      </FlipLink>
     </section>
   );
 };

@@ -102,11 +102,18 @@ const Projects = () => {
                             alt="startup template"
                             containerClass="rounded-lg object-cover h-40 sm:h-32 md:h-44 lg:h-60 w-full shadow-lg"
                         />
+                        <div className="flex">
                         <DynamicImage
-                            url="https://sceptix-club.github.io/website-assets/projects/cisf4.avif"
+                            url="https://sceptix-club.github.io/website-assets/projects/geotag1.avif"
                             alt="startup template"
-                            containerClass="rounded-lg object-cover h-40 sm:h-32 md:h-44 lg:h-60 w-full shadow-lg"
+                            containerClass="rounded-lg h-96 sm:h-32 ml-14 md:h-44 lg:h-60 w-32 shadow-lg"
                         />
+                        <DynamicImage
+                            url="https://sceptix-club.github.io/website-assets/projects/geotag2.avif"
+                            alt="startup template"
+                            containerClass="rounded-lg h-96 sm:h-32 ml-8 md:h-44 lg:h-60 w-32 shadow-lg"
+                        />
+                        </div>
                     </div>
                 </div>
             ),
